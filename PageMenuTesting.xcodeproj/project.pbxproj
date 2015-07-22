@@ -13,6 +13,20 @@
 		EDA97BB41B3E3853004074F4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BB31B3E3853004074F4 /* Images.xcassets */; };
 		EDA97BB71B3E3853004074F4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BB51B3E3853004074F4 /* LaunchScreen.xib */; };
 		EDA97BC31B3E3853004074F4 /* PageMenuTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BC21B3E3853004074F4 /* PageMenuTestingTests.swift */; };
+		EDA97BCD1B3E3CE9004074F4 /* CAPSPageMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BCC1B3E3CE9004074F4 /* CAPSPageMenu.swift */; };
+		EDA97BCE1B3E3CE9004074F4 /* CAPSPageMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BCC1B3E3CE9004074F4 /* CAPSPageMenu.swift */; };
+		EDA97BD21B3E3D88004074F4 /* FruitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BD01B3E3D88004074F4 /* FruitViewController.swift */; };
+		EDA97BD31B3E3D88004074F4 /* FruitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BD01B3E3D88004074F4 /* FruitViewController.swift */; };
+		EDA97BD41B3E3D88004074F4 /* FruitViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BD11B3E3D88004074F4 /* FruitViewController.xib */; };
+		EDA97BD51B3E3D88004074F4 /* FruitViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BD11B3E3D88004074F4 /* FruitViewController.xib */; };
+		EDA97BD81B3E3D99004074F4 /* AnimalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BD61B3E3D99004074F4 /* AnimalViewController.swift */; };
+		EDA97BD91B3E3D99004074F4 /* AnimalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BD61B3E3D99004074F4 /* AnimalViewController.swift */; };
+		EDA97BDA1B3E3D99004074F4 /* AnimalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BD71B3E3D99004074F4 /* AnimalViewController.xib */; };
+		EDA97BDB1B3E3D99004074F4 /* AnimalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BD71B3E3D99004074F4 /* AnimalViewController.xib */; };
+		EDA97BDE1B3E3DAB004074F4 /* PlanetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BDC1B3E3DAB004074F4 /* PlanetViewController.swift */; };
+		EDA97BDF1B3E3DAB004074F4 /* PlanetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA97BDC1B3E3DAB004074F4 /* PlanetViewController.swift */; };
+		EDA97BE01B3E3DAB004074F4 /* PlanetViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BDD1B3E3DAB004074F4 /* PlanetViewController.xib */; };
+		EDA97BE11B3E3DAB004074F4 /* PlanetViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA97BDD1B3E3DAB004074F4 /* PlanetViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +50,13 @@
 		EDA97BBC1B3E3853004074F4 /* PageMenuTestingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PageMenuTestingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDA97BC11B3E3853004074F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDA97BC21B3E3853004074F4 /* PageMenuTestingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageMenuTestingTests.swift; sourceTree = "<group>"; };
+		EDA97BCC1B3E3CE9004074F4 /* CAPSPageMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CAPSPageMenu.swift; sourceTree = "<group>"; };
+		EDA97BD01B3E3D88004074F4 /* FruitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FruitViewController.swift; sourceTree = "<group>"; };
+		EDA97BD11B3E3D88004074F4 /* FruitViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FruitViewController.xib; sourceTree = "<group>"; };
+		EDA97BD61B3E3D99004074F4 /* AnimalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimalViewController.swift; sourceTree = "<group>"; };
+		EDA97BD71B3E3D99004074F4 /* AnimalViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AnimalViewController.xib; sourceTree = "<group>"; };
+		EDA97BDC1B3E3DAB004074F4 /* PlanetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetViewController.swift; sourceTree = "<group>"; };
+		EDA97BDD1B3E3DAB004074F4 /* PlanetViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlanetViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,11 +98,13 @@
 		EDA97BA91B3E3853004074F4 /* PageMenuTesting */ = {
 			isa = PBXGroup;
 			children = (
+				EDA97BCF1B3E3D4E004074F4 /* View Controllers */,
 				EDA97BAC1B3E3853004074F4 /* AppDelegate.swift */,
 				EDA97BAE1B3E3853004074F4 /* ViewController.swift */,
 				EDA97BB01B3E3853004074F4 /* Main.storyboard */,
 				EDA97BB31B3E3853004074F4 /* Images.xcassets */,
 				EDA97BB51B3E3853004074F4 /* LaunchScreen.xib */,
+				EDA97BCC1B3E3CE9004074F4 /* CAPSPageMenu.swift */,
 				EDA97BAA1B3E3853004074F4 /* Supporting Files */,
 			);
 			path = PageMenuTesting;
@@ -110,6 +133,19 @@
 				EDA97BC11B3E3853004074F4 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EDA97BCF1B3E3D4E004074F4 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				EDA97BD01B3E3D88004074F4 /* FruitViewController.swift */,
+				EDA97BD11B3E3D88004074F4 /* FruitViewController.xib */,
+				EDA97BD61B3E3D99004074F4 /* AnimalViewController.swift */,
+				EDA97BD71B3E3D99004074F4 /* AnimalViewController.xib */,
+				EDA97BDC1B3E3DAB004074F4 /* PlanetViewController.swift */,
+				EDA97BDD1B3E3DAB004074F4 /* PlanetViewController.xib */,
+			);
+			name = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,7 +228,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDA97BE01B3E3DAB004074F4 /* PlanetViewController.xib in Resources */,
 				EDA97BB21B3E3853004074F4 /* Main.storyboard in Resources */,
+				EDA97BD41B3E3D88004074F4 /* FruitViewController.xib in Resources */,
+				EDA97BDA1B3E3D99004074F4 /* AnimalViewController.xib in Resources */,
 				EDA97BB71B3E3853004074F4 /* LaunchScreen.xib in Resources */,
 				EDA97BB41B3E3853004074F4 /* Images.xcassets in Resources */,
 			);
@@ -202,6 +241,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDA97BE11B3E3DAB004074F4 /* PlanetViewController.xib in Resources */,
+				EDA97BDB1B3E3D99004074F4 /* AnimalViewController.xib in Resources */,
+				EDA97BD51B3E3D88004074F4 /* FruitViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +254,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDA97BD81B3E3D99004074F4 /* AnimalViewController.swift in Sources */,
 				EDA97BAF1B3E3853004074F4 /* ViewController.swift in Sources */,
+				EDA97BDE1B3E3DAB004074F4 /* PlanetViewController.swift in Sources */,
+				EDA97BD21B3E3D88004074F4 /* FruitViewController.swift in Sources */,
 				EDA97BAD1B3E3853004074F4 /* AppDelegate.swift in Sources */,
+				EDA97BCD1B3E3CE9004074F4 /* CAPSPageMenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,7 +267,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDA97BDF1B3E3DAB004074F4 /* PlanetViewController.swift in Sources */,
+				EDA97BCE1B3E3CE9004074F4 /* CAPSPageMenu.swift in Sources */,
 				EDA97BC31B3E3853004074F4 /* PageMenuTestingTests.swift in Sources */,
+				EDA97BD91B3E3D99004074F4 /* AnimalViewController.swift in Sources */,
+				EDA97BD31B3E3D88004074F4 /* FruitViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
